@@ -14,3 +14,5 @@ The website manager noticed that the homepage bounce rate is higher than usual(6
 ## Dataset
 https://mavenanalytics.io/data-playground/toy-store-e-commerce-database
 
+##Report
+https://github.com/Tathagata20/E-Commerce-Landing-Page-Statistical-Test/blob/main/Maven_Fuzzy_Factory_Landing_Page_Test_Report.docx
